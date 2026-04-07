@@ -1,0 +1,8 @@
+id,nome,categoria,preco,disponivel
+1,Margherita,pizza,45.0,True
+2,Calabresa,pizza,52.0,True
+3,4 Queijos,pizza,62.0,False
+4,Frango com Catupiry,pizza,65.0,True
+5,Tiramisù,sobremesa,25.0,True
+6,Lasanha Bolonhesa,massa,48.0,True
+7,Ravioli de Ricota,massa,54.0,False
